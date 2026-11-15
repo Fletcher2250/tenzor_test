@@ -211,4 +211,11 @@ pytest -v tests/test\_images.py
 \- Page Object Model
 
 
+## Результаты тестирования
 
+Оба автоматизированных теста успешно пройдены:
+
+- `test_search_tensor_is_first_result` — PASSED
+- `test_yandex_images_navigation` — PASSED
+
+Запуск выполнен командой `pytest -v`.
